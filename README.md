@@ -12,3 +12,5 @@ This information is scraped from the Google Play Store. This app information wou
 
 Inspiration -
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+
+Link To the Dataset - https://www.kaggle.com/datasets/lava18/google-play-store-apps
